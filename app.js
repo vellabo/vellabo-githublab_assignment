@@ -1,3 +1,9 @@
+/*
+Team Members:
+- Sumanasri Rontala
+- Vishnu Vardhan Ellaboina
+*/
+
 const board = [
     [0, 0, 0, 0],
     [0, 0, 0, 0],
@@ -76,3 +82,8 @@ function changeColor(row, col) {
 assignRandom();
 assignRandom();
 display();
+
+/*
+Changes made based the pervious round results and committing .
+Tested and found no errors - Sumanasri Rontala
+*/
