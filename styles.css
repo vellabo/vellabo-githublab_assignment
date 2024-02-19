@@ -1,3 +1,11 @@
+/*
+
+Team Members: 
+            1. Vishnu Vardhan Ellaboina
+            2. Sumanasri Rontala
+
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -37,3 +45,12 @@ font-weight: bold;
 .active{
      background-color: hsl(10, 50%, 50);
 }
+
+
+/* 
+
+Tested and Found NO Errors: By - Vishnu Vardhan Ellaboina
+    Description Changes Made:
+        Added the code according to Round 1 and Round 2 and committed all the changes to GIT. 
+
+*/
